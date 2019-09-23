@@ -4,7 +4,7 @@ public class SalesData {
 	
 	void display()
 	{
-		System.out.println("Sales Data!!!");
+		System.out.println("Sales Data!JS");
 	}
 
 }
